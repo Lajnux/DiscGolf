@@ -6,9 +6,9 @@ Disc Golf Bot is a Discord Bot to help assist and inspire Disc golf communities.
 
 ## Suggestions & Bug Reports
 
-To report a bug, [click here](https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request&template=bug.md).
+To report a bug, [click here](https://github.com/Lajnux/DiscGolf/issues/new?labels=feature+request&template=bug.md).
 
-To suggest a new feature, [click here](https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request&template=feature.md)
+To suggest a new feature, [click here](https://github.com/Lajnux/DiscGolf/issues/new?labels=feature+request&template=feature.md)
 
 ## Contributing
 
