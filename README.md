@@ -38,7 +38,7 @@ Contributors are listed in this file, and given a Contributor role in the suppor
 If you have errors or issues, you can ask us for help in the developer channel in the [discord server](https://discord.gg/ob).
 
 ### Contributors
--   [[Fishy](https://github.com/Lajnux)]
+-   [[None yet](https://github.com/Lajnux)]
 
 ## Self Hosting
 
