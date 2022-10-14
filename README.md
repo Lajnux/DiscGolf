@@ -1,6 +1,6 @@
 [![Discord](https://i.imgur.com/AWqUL0x.png)](http://discord.gg/ob) [![Discord](https://i.imgur.com/OcOyprP.png)](https://invite.oldschool.gg/)
 
-# ![Logo](https://i.imgur.com/afuLBnz.jpeg) Disc Golf Bot
+# ![Logo](https://m.media-amazon.com/images/I/71N9mvlVooL._CR0,204,1224,1224_UX256.jpg) Disc Golf Bot
 
 Disc Golf Bot is a Discord Bot to help assist and inspire Disc golf communities. [Disc Golf](https://www.pdga.com/)
 
