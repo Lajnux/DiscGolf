@@ -2,7 +2,7 @@
 
 # ![Logo](https://i.imgur.com/VLvOEwo.png) Disc Golf Bot
 
-Disc Golf Bot is a Discord Bot to help assist and inspire Disc golf communities. [Disc Golf](https://en.wikipedia.org/wiki/Disc_golf)
+Disc Golf Bot is a Discord Bot to help assist and inspire Disc golf communities. [Disc Golf](https://www.pdga.com/)
 
 ## Suggestions & Bug Reports
 
